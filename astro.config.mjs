@@ -1,6 +1,6 @@
-    
+
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://your-github-username.github.io',
-    base: '/cck/',
+    site: 'https://peppapoes.github.io',
+    base: '/deploy-astro/',
 });
